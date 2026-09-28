@@ -1,0 +1,5 @@
+$kind: collection
+name: Auth
+description: |-
+  Authentication endpoints for the Stock & Crypto app.
+  Covers user registration, login, profile retrieval, and profile update.

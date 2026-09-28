@@ -1,0 +1,8 @@
+name: Local
+values:
+  - key: baseUrl
+    value: 'http://localhost:5000'
+    description: Base URL for the local backend server
+  - key: token
+    value: ''
+    description: JWT token returned after login or register
